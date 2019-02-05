@@ -3,6 +3,8 @@
 A drum machine built with React and ❤️ as part of the FreeCodeCamp Front-end certification. 
 The specification page can be found here: [drum-machine](https://learn.freecodecamp.org/front-end-libraries/front-end-libraries-projects/build-a-drum-machine)
 
+[Live demo](https://mattldwig.github.io/react-drum-machine/)
+
 ![React Drum Machine](presentation-gif.gif)
 
 ---
