@@ -30,7 +30,7 @@ Start with `npm start` and open [http://localhost:3000](http://localhost:3000) t
 This application does not pass the 6th Freecodecamp test. 
 
 This is caused by the higher number of pads in this version. To pass all the tests, simply delete the last 3 soundsbank entries in: `App.js` -> `this.state` -> `Soundsbank`
-or search to work `Here` in `App.js` and follow the comments.
+or search to word **Here** in `App.js` and follow the comments.
 
 With 12 pads:
 ![React Drum Machine test failed](test-failed.png)
