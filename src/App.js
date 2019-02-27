@@ -144,7 +144,7 @@ class App extends Component {
           pianoSound: B,
           drumSound: Snare3,
           keyPad: 'V'
-        }*/
+        }
         /** end of the deletion area */
       ]
     }
