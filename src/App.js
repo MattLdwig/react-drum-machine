@@ -119,7 +119,7 @@ class App extends Component {
           pianoSound: G_sharp,
           drumSound: Shaker,
           keyPad: 'C'
-        },
+        }/*,
         /** Here:  Pads to be deleted to pass the 7th test */
         {
           note: 'A',
@@ -144,7 +144,7 @@ class App extends Component {
           pianoSound: B,
           drumSound: Snare3,
           keyPad: 'V'
-        }
+        }*/
         /** end of the deletion area */
       ]
     }
