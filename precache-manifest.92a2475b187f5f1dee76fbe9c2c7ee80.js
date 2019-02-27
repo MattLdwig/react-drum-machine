@@ -1,15 +1,15 @@
 self.__precacheManifest = [
   {
-    "revision": "9f159b9017c410c4a742e40e29491156",
-    "url": "/react-drum-machine/static/media/A_sharp.9f159b90.wav"
+    "revision": "f5426f33db8d7e1ac9ed0eddbf01075f",
+    "url": "/react-drum-machine/static/media/clap7.f5426f33.wav"
   },
   {
-    "revision": "b3b87cc33a4e931c78bf",
-    "url": "/react-drum-machine/static/css/main.8e67d206.chunk.css"
+    "revision": "867da480bbfc3684d27c",
+    "url": "/react-drum-machine/static/css/main.cff568d9.chunk.css"
   },
   {
-    "revision": "519308907992b0513c58",
-    "url": "/react-drum-machine/static/js/1.51930890.chunk.js"
+    "revision": "a8f33239b8e9c0ec510e",
+    "url": "/react-drum-machine/static/js/1.a8f33239.chunk.js"
   },
   {
     "revision": "1b275f1ea04ecc9b85ff",
@@ -52,24 +52,12 @@ self.__precacheManifest = [
     "url": "/react-drum-machine/static/media/G_sharp.cf213327.wav"
   },
   {
-    "revision": "ca065ab4c502473beba55d3cae6fb9c9",
-    "url": "/react-drum-machine/static/media/A.ca065ab4.wav"
-  },
-  {
-    "revision": "b3b87cc33a4e931c78bf",
-    "url": "/react-drum-machine/static/js/main.b3b87cc3.chunk.js"
-  },
-  {
-    "revision": "c02a00ed154a6f3c7f8f3a50c5e75f02",
-    "url": "/react-drum-machine/static/media/B.c02a00ed.wav"
-  },
-  {
     "revision": "9ece8ab8438b99c33eef24ca56ceabb2",
     "url": "/react-drum-machine/static/media/clap1.9ece8ab8.wav"
   },
   {
-    "revision": "f5426f33db8d7e1ac9ed0eddbf01075f",
-    "url": "/react-drum-machine/static/media/clap7.f5426f33.wav"
+    "revision": "867da480bbfc3684d27c",
+    "url": "/react-drum-machine/static/js/main.867da480.chunk.js"
   },
   {
     "revision": "c372b8c0622b95ba88d24a816de5f867",
@@ -100,6 +88,18 @@ self.__precacheManifest = [
     "url": "/react-drum-machine/static/media/shaker.8a27334b.wav"
   },
   {
+    "revision": "ca065ab4c502473beba55d3cae6fb9c9",
+    "url": "/react-drum-machine/static/media/A.ca065ab4.wav"
+  },
+  {
+    "revision": "9f159b9017c410c4a742e40e29491156",
+    "url": "/react-drum-machine/static/media/A_sharp.9f159b90.wav"
+  },
+  {
+    "revision": "c02a00ed154a6f3c7f8f3a50c5e75f02",
+    "url": "/react-drum-machine/static/media/B.c02a00ed.wav"
+  },
+  {
     "revision": "4387a0752a31abd2d14d9cae0e80f577",
     "url": "/react-drum-machine/static/media/snare3.4387a075.wav"
   },
@@ -112,7 +112,7 @@ self.__precacheManifest = [
     "url": "/react-drum-machine/static/media/snare9.9263ece4.wav"
   },
   {
-    "revision": "2e498b759805dc059fc2eaef99d69cf3",
+    "revision": "1de7434f3d8016209409a880af69f65f",
     "url": "/react-drum-machine/index.html"
   }
 ];
