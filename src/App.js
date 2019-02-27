@@ -119,8 +119,9 @@ class App extends Component {
           pianoSound: G_sharp,
           drumSound: Shaker,
           keyPad: 'C'
-        }/*,
+        }//,
         /** Here:  Pads to be deleted to pass the 7th test */
+        /*
         {
           note: 'A',
           drum: 'Snare N°1',
